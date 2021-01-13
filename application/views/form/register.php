@@ -21,7 +21,7 @@
     </div>
     <hr>
     <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
-    <p class="mt-5 mb-3 text-muted">&copy; 2020</p>
+    <p class="mt-5 mb-3 text-muted">&copy; 2021</p>
   </form>
 </body>
 
